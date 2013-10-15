@@ -39,6 +39,6 @@ The plane_orb_publish function will publish to plane_vehicle_attitude_setpoint a
 vehicle_attitude_setpoint depending on the setting of the plane/mc transmitter switch.
 
 There are axis rotations that are necessary so each module set(MC or PLANE) feels that the px4fmu is mounted 
-in the proper for it. 
+in the proper orientation for it. 
 
 
